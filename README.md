@@ -12,4 +12,8 @@ api网关可做下面的事情。
 
 ```
 joshlong
+
+int main(int argc){
+    return 0;
+}
 ```
